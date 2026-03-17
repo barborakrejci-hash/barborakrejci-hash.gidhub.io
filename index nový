@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Barbora Sport Runclub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Barbora Sport Runclub</h1>
+    <p>Běhej. Posouvej se. Bav se.</p>
+</header>
+
+<section>
+    <h2>Kdo jsem</h2>
+    <p>
+        Ahoj, jsem Barbora – trenérka, běžkyně a zakladatelka Barbora Sport Runclubu.
+        Sport je součást mého života už od dětství a běh je pro mě způsob, jak si vyčistit hlavu,
+        nabrat energii a překonávat vlastní limity.
+    </p>
+    <p>
+        Věřím, že běhání není jen o výkonu, ale hlavně o radosti, komunitě a konzistenci.
+        Proto jsem vytvořila runclub, kde se každý může cítit dobře – bez ohledu na úroveň.
+    </p>
+</section>
+
+<section>
+    <h2>O runclubu</h2>
+    <p>
+        Barbora Sport Runclub je komunita lidí, kteří chtějí něco dělat pro sebe.
+        Nezáleží na tom, jestli běháš poprvé nebo trénuješ pravidelně – každý si u nás najde svoje tempo.
+    </p>
+    <p>
+        Tréninky jsou vedené, ale zároveň uvolněné. Zaměřujeme se na techniku, vytrvalost
+        i celkovou pohodu z pohybu.
+    </p>
+
+    <h3>Co můžeš čekat:</h3>
+    <ul>
+        <li>✔ přátelskou komunitu</li>
+        <li>✔ tréninky pro všechny úrovně</li>
+        <li>✔ individuální přístup</li>
+        <li>✔ motivaci a podporu</li>
+    </ul>
+
+    <a href="trenink.html" class="button">Zjistit info o prvním tréninku →</a>
+</section>
+
+<section>
+    <h2>Kdy běháme</h2>
+    <p>
+        Pravidelné tréninky probíhají každé úterý a čtvrtek od 18:00.
+        Občas pořádáme i víkendové běhy nebo speciální tréninky.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Barbora Sport Runclub</p>
+</footer>
+
+</body>
+</html>
