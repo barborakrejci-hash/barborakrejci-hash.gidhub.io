@@ -1,0 +1,68 @@
+!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>První trénink | Barbora Sport</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Tvůj první trénink</h1>
+</header>
+
+<section>
+    <h2>Jak to probíhá</h2>
+    <p>
+        Na první trénink se nemusíš nijak připravovat – stačí přijít.
+        Začneme krátkým seznámením, lehkým rozběháním a jednoduchými cviky.
+    </p>
+    <p>
+        Tempo vždy přizpůsobujeme skupině, takže se nemusíš bát, že bys nestíhal/a.
+    </p>
+</section>
+
+<section>
+    <h2>Konkrétní informace</h2>
+    <ul>
+        <li>📍 Místo: Letenské sady, Praha (u metronomu)</li>
+        <li>🕒 Čas: úterý 18:00</li>
+        <li>⏱ Délka: cca 60 minut</li>
+        <li>🏃 Úroveň: úplní začátečníci i pokročilí</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Co si vzít s sebou</h2>
+    <ul>
+        <li>✔ běžecké boty</li>
+        <li>✔ pohodlné sportovní oblečení</li>
+        <li>✔ vodu</li>
+        <li>✔ dobrou náladu 🙂</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Kolik to stojí</h2>
+    <p>
+        První trénink je zdarma. Další vstup stojí 150 Kč / trénink
+        nebo 1 200 Kč za měsíční členství.
+    </p>
+</section>
+
+<section>
+    <h2>Jak se přihlásit</h2>
+    <p>
+        Stačí přijít na místo nebo napsat na Instagram:
+        <br><strong>@barborasport</strong>
+    </p>
+</section>
+
+<a href="index.html" class="button">← Zpět na hlavní stránku</a>
+
+<footer>
+    <p>© 2026 Barbora Sport Runclub</p>
+</footer>
+
+</body>
+</html>
