@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Barbora Sport Runclub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Barbora Sport Runclub</h1>
+</header>
+
+<section class="about">
+    <h2>O mně</h2>
+    <p>
+        Ahoj, jmenuji se Barbora a miluju pohyb, běh a komunitu lidí, kteří se chtějí zlepšovat.
+        Runclub Barbora Sport jsem založila, abych propojila lidi, kteří chtějí běhat společně,
+        motivovat se a užít si radost z pohybu.
+    </p>
+</section>
+
+<section class="club">
+    <h2>O runclubu</h2>
+    <p>
+        Náš runclub je otevřený pro všechny – začátečníky i pokročilé.
+        Běháme spolu, sdílíme zkušenosti a posouváme své limity.
+    </p>
+
+    <a href="trenink.html" class="button">První trénink →</a>
+</section>
+
+<footer>
+    <p>© 2026 Barbora Sport</p>
+</footer>
+
+</body>
+</html>
